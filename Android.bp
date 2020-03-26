@@ -61,6 +61,7 @@ android_library {
         "android.hardware.dumpstate-V1.1-java",
         "AicpGear-preference",
         "AicpGear-util",
+        "faceunlock_utils",
     ],
 
     libs: [
